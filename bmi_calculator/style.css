@@ -1,0 +1,10 @@
+.container{
+    width: 575px;
+    height: 825px;
+  
+    background-color: #797978;
+    padding-left: 30px;
+}
+form{
+    justify-content: center;
+}
